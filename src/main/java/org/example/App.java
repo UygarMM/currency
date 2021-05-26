@@ -7,7 +7,7 @@ package org.example;
 public class App {
 
     /**
-     * Your application's main entry point.
+     * Your application's main entry pointfskebfskdjfskjfsdkjbf.
      *
      * @param args Yet unused
      */
