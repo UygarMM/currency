@@ -17,7 +17,7 @@ public class App {
        System.out.println("""
          Hi there, let's have
          fun learning Java!""");
-        System.out.println("hallo");
+        System.out.println("hallo2");
     }
 }
 
